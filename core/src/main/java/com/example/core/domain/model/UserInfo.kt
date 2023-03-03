@@ -9,7 +9,7 @@ data class UserInfo(
     val height: Int,
     val activityLevel: ActivityLevel,
     val goalType: GoalType,
-    val cabRatio: Float,
+    val carbRatio: Float,
     val proteinRatio: Float,
     val fatRatio: Float
 )
